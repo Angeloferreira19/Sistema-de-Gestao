@@ -1,1 +1,1 @@
-# Sistema-de-Gestão-de-Estoque-e-Despesas-Para-Terreiros-de-Umbanda-e-Cambonblé
+# SISTEMA DE GESTÃO DE ESTOQUE, DESPESAS E ARRECADAÇÃO PARA TERREIROS DE UMBANDA E CANDOMBLÉ
